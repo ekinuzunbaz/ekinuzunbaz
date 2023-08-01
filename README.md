@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ekin Uzunbaz
-Dokuz Eylul University, Computer Engineering, 4th Grade
-<hr />
-## About me
+Dokuz Eylul University, Computer Engineering, 4th Grade <br />
+<hr /> <br/>
+### About me
 - I’m currently learning Node.js and MongoDB. I want to code an API by using these two technologies. <br />
 - I have experience in: <br />
 • C, C#, Java, and Python programming languages <br />
